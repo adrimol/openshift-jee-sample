@@ -214,26 +214,6 @@ pre {
 </head>
 <body>
 
-<div class="container-fluid" style="max-width: 1024px;">
-                       <div class="row">
-                           <div class="col-md-3">
-                                UNO                  
-                           </div>
-                            <div class="col-md-3">
-                             DOS               
-                           </div> 
-                             <div class="col-md-3">
-                              TRES                  
-                           </div>  
-                            <div class="col-md-3">
-                               CUATRO                     
-                           </div> 
-
-
-                       </div>
-                   </div>
-    
-    
 <section class='container'>
           <hgroup>
             <h1>Welcome to your JavaEE application on OpenShift</h1>
